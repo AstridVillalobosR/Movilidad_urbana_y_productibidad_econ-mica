@@ -1,6 +1,7 @@
 # Movilidad_urbana_y_productibidad_econ-mica
 Análisis de niveles de congestión, tiempos de viaje, frente a la productividad económica per cápita en países de Latinoamérica 
-![Representación del proyecto]()
+  
+![Representación del proyecto](Representacion_Movilidad_PIB.png)
 
 
 
@@ -14,3 +15,6 @@ Ciudades como Ciudad de México, Santiago y Sao Paulo presentan comportamientos 
 
 **Aqui puedes revisar mi código
 https://github.com/AstridVillalobosR/Movilidad_urbana_y_productibidad_econ-mica/blob/main/S5_ladb_mobility_economy_project_student_(Final)%20(1).ipynb**
+
+
+[def]: https://github.com/AstridVillalobosR/Movilidad_urbana_y_productibidad_econ-mica/blob/main/Representacion_Movilidad_PIB.png
