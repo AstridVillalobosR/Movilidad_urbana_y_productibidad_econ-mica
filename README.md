@@ -7,7 +7,7 @@ Análisis de niveles de congestión, tiempos de viaje, frente a la productividad
 
 Se usaron datos reales provenientes de TomTom Traffic Index y OECD Cities, los cuales fué necesario limpiar, integrar y analizar con el fin de identificar las ciudades más estratégicas para invertir en infraestructura de transporte.
 
-*¨Hallazgos**
+**Hallazgos**
 
 Se observan casos en los que un mayor PIB per cápita se asocia con menores niveles de congestión, lo cual podría considerarse una situación ideal. Sin embargo, también se presentan escenarios en los que ambas variables son altas o muestran comportamientos inversos. Por lo tanto, y como se mencionó anteriormente, no es adecuado establecer una relación directa entre estas variables, dado que sus valores fluctúan de manera heterogénea.
 
