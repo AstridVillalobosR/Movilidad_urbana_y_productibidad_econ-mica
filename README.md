@@ -15,7 +15,5 @@ Ciudades como Ciudad de México, Santiago y Sao Paulo presentan comportamientos 
 
 
 **Aqui puedes revisar con mas detalle mi código y mi análisis
-https://github.com/AstridVillalobosR/Movilidad_urbana_y_productibidad_econ-mica/blob/main/mobility_economy.ipynbb**
+https://github.com/AstridVillalobosR/Movilidad_urbana_y_productibidad_econ-mica/blob/main/mobility_economy.ipynb**
 
-
-[def]: https://github.com/AstridVillalobosR/Movilidad_urbana_y_productibidad_econ-mica/blob/main/Representacion_Movilidad_PIB.png
