@@ -14,7 +14,7 @@ Se observan casos en los que un mayor PIB per cápita se asocia con menores nive
 Ciudades como Ciudad de México, Santiago y Sao Paulo presentan comportamientos atípicos, en los que los niveles de congestión superan lo esperado en relación con sus indicadores económicos. En contraste, Montevideo destaca por registrar un PIB per cápita relativamente alto junto con niveles muy bajos de congestión, evidenciando una dinámica diferente.
 
 
-**Aqui puedes revisar mi código
+**Aqui puedes revisar con mas detalle mi código y mi análisis
 https://github.com/AstridVillalobosR/Movilidad_urbana_y_productibidad_econ-mica/blob/main/S5_ladb_mobility_economy_project_student_(Final)%20(1).ipynb**
 
 
