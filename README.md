@@ -1,4 +1,4 @@
-# Movilidad_urbana_y_productibidad_econ-mica
+# Movilidad_urbana_y_productividad_ecoómica
 Análisis de niveles de congestión, tiempos de viaje, frente a la productividad económica per cápita en países de Latinoamérica 
   
 ![Representación del proyecto](Representacion_Movilidad_PIB.png)
